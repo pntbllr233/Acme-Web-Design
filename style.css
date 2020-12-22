@@ -295,8 +295,17 @@ footer p {
         margin-top: 5px;
     }
 
+/* ADDING FORMATING TO CLEAN UP PICTURES AND SPACE THEM OUT */
     .services {
         display: block;
+    }
+
+    .services h3 {
+        padding: 0;
+    }
+
+    .services p {
+        padding-bottom: 10px;
     }
 
     footer {
