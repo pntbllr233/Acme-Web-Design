@@ -277,7 +277,7 @@ footer p {
     }
 
     .background {
-        display: none;
+        height: 200px;
     }
 
     input[type=email] {
