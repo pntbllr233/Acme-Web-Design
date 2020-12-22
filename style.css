@@ -282,6 +282,7 @@ footer p {
 
     input[type=email] {
         width: 175px;
+        font-size: 12px;
     }
     
     input[type=submit] {
